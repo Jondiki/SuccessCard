@@ -20,13 +20,11 @@ const App = () => {
   ];
 
   return (
-    
     <KeyboardAvoidingView
       behavior={Platform.OS === "ios" ? "padding" : "height"}
       style={{ flex: 1 }}
     >
       <ScrollView style={styles.container}>
-
         {/* Contenu vertical */}
         <Text style={styles.header1}>
           <Image source={require("./assets/Titre.png")} />
@@ -34,11 +32,11 @@ const App = () => {
         <Text style={styles.header}>
           <Image source={require("./assets/succes.png")} />
         </Text>
-
+        {/* Contenu horizontal */}
         <ScrollView
           horizontal={true}
           pagingEnabled={true}
-          // showsHorizontalScrollIndicator={false}
+          showsHorizontalScrollIndicator={false}
           style={styles.carousel}
         >
           {images.map((image, index) => (
