@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "SuccessCard",
+    "slug": "SuccessCard",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jond75.SuccessCard",
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.jond75.SuccessCard",
+      "runtimeVersion": "1.0.0"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "387c8e28-c693-4a5d-bd48-d0034b2f34a5"
+      }
+    },
+    "owner": "jond75",
+    "updates": {
+      "url": "https://u.expo.dev/387c8e28-c693-4a5d-bd48-d0034b2f34a5"
+    }
+  }
+}
