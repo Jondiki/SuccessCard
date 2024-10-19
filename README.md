@@ -1,7 +1,7 @@
 
+![Weekly report - Copie](https://github.com/user-attachments/assets/a77fbc44-5612-48f2-9fd8-c116278f7c82)
 
 
-![Weekly report](https://github.com/user-attachments/assets/725f8b91-537d-494f-adce-9a33317fc0e4)
 
 
 ## Test Technique - Peach
