@@ -14,9 +14,9 @@ const { width } = Dimensions.get("window");
 
 const App = () => {
   const images = [
-    require("./assets/Success-card-1.png"),
-    require("./assets/Success-card-2.png"),
-    require("./assets/Success-card-3.png"),
+    require("./assets/card-1.png"),
+    require("./assets/card-2.png"),
+    require("./assets/card-3.png"),
   ];
 
   return (
