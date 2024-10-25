@@ -4,4 +4,4 @@
 
 
 
-Développement d'un écran de l'application Peach / `React-Native` avec carrousel, et 3 cartes à intégrer.
+Build a Peach / `React-Native`  application screen with carousel, and 3 cards. 
