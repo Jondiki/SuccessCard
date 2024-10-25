@@ -4,4 +4,4 @@
 
 
 
-Build a Peach / `React-Native`  application screen with carousel, and 3 cards. 
+Build a `React-Native`  application screen with carousel, and 3 cards. 
