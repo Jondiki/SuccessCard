@@ -4,4 +4,4 @@
 
 
 
-Build a `React-Native`  application screen with carousel, and 3 cards. 
+Build `React-Native`  app screen with carousel, and 3 cards. 
